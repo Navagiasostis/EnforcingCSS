@@ -1,6 +1,7 @@
-# Enforcing myself... to make a homepage? Is that even a sentence? Anyway...
+# Obselete :)
+## Enforcing myself... to make a homepage? Is that even a sentence? Anyway...
 
-https://enforce-r.github.io/EnforcingCSS/
+https://navagiasostis.github.io/EnforcingCSS/
 
 My personal website for testing purposes
 
